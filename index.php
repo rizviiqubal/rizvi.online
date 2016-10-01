@@ -56,7 +56,7 @@
                 </li>
                 <li>
                     <a class="h3" href="https://www.linkedin.com/in/rizviiqubal"
-                    target="_blank" title="LinkedIn">LinkedIn</a>
+                    target="_blank" title="LinkedIn">linkedIn</a>
                 </li>
                 <li>
                     <a class="h3" href="https://github.com/rizviiqubal" target=
